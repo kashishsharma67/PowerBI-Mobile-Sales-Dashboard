@@ -4,8 +4,7 @@ This project is an interactive Power BI dashboard built to analyze mobile sales 
 The dashboard helps identify sales trends, customer behavior, payment preferences, and product performance.
 ---
 ## Dashboard Preview
-![Dashboard](images/dashboard-overview.PNG)
----
+<img src="images/dashboard-overview.PNG" width="1000">---
 ## Key Metrics
 - Total Sales
 - Average Price
